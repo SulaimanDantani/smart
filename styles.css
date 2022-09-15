@@ -1,0 +1,76 @@
+body{
+    margin: 0%;
+    text-align: center;
+    background-color: whitesmoke;
+    background-image: url(1.jpg);
+    height: 100%;
+    width: 100%;
+    font-size: 30px;
+
+}
+a{
+    text-decoration: none;
+    padding: 8px;
+    border-radius: 10px;
+    background-color: skyblue;
+    color: aliceblue;
+}
+a:hover{
+    background-color: darkcyan;
+}
+a:active{
+    background-color:orange;
+}
+.head1{
+    display: inline-block;
+    margin-left: 60%;
+
+}
+.head2{
+    background-color: skyblue;
+    border-radius: 20px;
+}
+marquee{
+    font-family: harrington;
+    width: 200px;
+}
+.head3{
+    background-color: #F2F2F2;
+    
+}
+.inputs{
+    width: 50%;
+    height: 30px;
+}
+#area{
+    width: 50%;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+.about{
+    font-family: harrington;
+}
+.page{
+    width: 50%;
+    margin: auto;
+}
+.sub{
+    width: 20%;
+    height: 50%;
+}
+.home{
+    width: 50%;
+    margin: auto;
+
+}
+h2{
+    font-family: harrington;
+}
+img{
+    border-radius: 50px;
+}
+.footer{
+    padding: 20px;
+    background-color: skyblue;
+}
